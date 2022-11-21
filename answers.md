@@ -12,3 +12,7 @@
 - 22: secure shell for encrypted connections to a server
 - 23: same as port 22 but unecrypted
 
+## Traceroute
+- beginning: 138.197.248.224, New York, NY, USA
+- middle: gi0-0-0-3.agr02.mtld01-fl.us.windstream.net, Maitland, FL, USA
+- end: 209.155.100.178, Dallas, TX, USA
